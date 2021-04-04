@@ -1,0 +1,45 @@
+body {
+  background-color: #FFEEF9;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20pt;
+  background: linear-gradient(-45deg, #FFCAFE, #FFFFFF);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+}
+
+header{
+	color: #0038EA
+}
+
+h1 {
+  color: #0038EA;
+  font-family: font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+h3 {
+	color: #0038EA;
+  	font-family: font-family: 'Montserrat', sans-serif;
+
+}
+
+div {
+	font-family: font-family: 'Montserrat', sans-serif;
+	color: #0038EA;
+}
+
+
+
